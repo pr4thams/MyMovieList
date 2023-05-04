@@ -1,0 +1,27 @@
+.movie__list {
+    padding: 0 3rem 3rem 3rem;
+}
+
+.list__title {
+font-size: 1.75rem;
+margin:  2.5rem;
+}
+
+.list__cards {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .list__cards::-webkit-scrollbar {
+    display: none;
+  }
+  
+
+.list__cards-container {
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  
