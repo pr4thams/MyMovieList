@@ -1,7 +1,4 @@
 # MyMovieList
-*This Project was submitted past deadline. We had a miscommunication and thought the deadline was 17th, we had a conversation with the professor and he said he will consider it. We appologise for any inconvenieces*
-
-
 ### [**Client-Side UI working Video**](https://drive.google.com/file/d/1ZrjJfTw-PD4b0fZ7DBuoVh39D5QQNNmu/view?usp=share_link) <-- Click Here :thumbsup:
 ### Attributions:
 -TMDB API: used for home page. Link- [documentation](https://www.themoviedb.org/documentation/api)
