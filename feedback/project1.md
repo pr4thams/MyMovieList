@@ -1,1 +1,0 @@
-Thank you. It offers a user friendly platform and involves people well. It was better to add numbers to columns and design the table more descriptive.
