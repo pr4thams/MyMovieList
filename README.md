@@ -1,5 +1,10 @@
 # MyMovieList
-### [**Client-Side UI working Video**](https://drive.google.com/file/d/1ZrjJfTw-PD4b0fZ7DBuoVh39D5QQNNmu/view?usp=share_link) <-- Click Here :thumbsup:
+
+## Overview
+- A clean and clutter free movie application engraved with all the features of a traditional movie app like IMDb alongside having ability to add friends and customize watchlists for better personalization and user engagement.
+- Created the app in a team of developers as a part of my academic project.
+
+### [**Client-Side UI working Video**](https://drive.google.com/file/d/1ZrjJfTw-PD4b0fZ7DBuoVh39D5QQNNmu/view?usp=share_link) <-- Click Here
 ### Attributions:
 -TMDB API: used for home page. Link- [documentation](https://www.themoviedb.org/documentation/api)
 
